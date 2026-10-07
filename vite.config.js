@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     babel({ presets: [reactCompilerPreset()] })
   ],
-  base: '/cis435-fall2026-my-app/'
+  base: '/CIS435-Fall2026-my-app/'
 })
